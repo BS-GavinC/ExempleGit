@@ -1,0 +1,11 @@
+#titre{
+    color: chartreuse;
+}
+
+*{
+    font-size: xx-large;
+}
+
+body{
+    background-image: url('./img/full.jpeg');
+}
